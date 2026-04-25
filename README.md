@@ -25,3 +25,13 @@ Basic HTML structure, Text formating, Lists (order & unorder),page layout, and c
 Adama Caroline Bangura
 Student at the Limkokwing University (SL)
 
+<img width="1365" height="768" alt="WEB CAPTURE 12" src="https://github.com/user-attachments/assets/48e6e0a9-21fc-4ead-a5ad-26644108a6e3" />
+<img width="1366" height="768" alt="WEB CAPTURE 13" src="https://github.com/user-attachments/assets/29601347-b126-40f1-b40c-64545c7dd955" />
+<img width="1366" height="768" alt="WEB CAPTURE 22" src="https://github.com/user-attachments/assets/08e975d6-be0c-4109-bd3d-6925a4a4dc17" />
+<img width="1366" height="768" alt="web capture 55" src="https://github.com/user-attachments/assets/ba253568-8e32-439f-83e8-8a768ed6023b" />
+
+
+
+
+
+
